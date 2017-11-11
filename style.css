@@ -1,0 +1,39 @@
+body{
+  background-color: deepskyblue;
+}
+.header img {
+ width: 100px;
+ height: 100px;
+}
+
+.header h1 {
+ position: relative;
+ top: 18px;
+ left: 10px;
+}
+  .box{
+    display: flex;
+  }
+  .box{
+
+}
+  .flex-container1{
+  height: 33%;
+  max-width: 100px;
+  flex-direction: column;
+}
+#Names li{
+  height: 33px;
+  max-width: 90px;
+  background: red;
+}
+.flex-container2{
+  height: 100%;
+  width: 400px;
+  flex-direction: column;
+}
+#html_url li{
+  height: 33px;
+  max-width: 400px;
+  background: green;
+}
